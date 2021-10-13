@@ -1,5 +1,5 @@
 # beglitched
-Terminal theme that pays homage to my favorite iOS game. the iterm2-colors get you these colors. the profile setting comes with bright-colors-for-bold-text switched off, antialiasing switched off, and a super cool file/preset name that is so backwards compatible
+Terminal theme that pays homage to my favorite iOS game. the iterm2-colors get you these colors. the profile json file comes with bright-colors-for-bold-text switched off, antialiasing switched off, and a super cool file/preset name that is so backwards compatible
 v2:
 
 ![image](https://user-images.githubusercontent.com/947518/137068226-efcf6723-25fd-4ee5-afc2-e1f831908f85.png)
